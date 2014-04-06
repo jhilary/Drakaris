@@ -1,0 +1,23 @@
+# Operaion system #
+.DS_Store
+
+# java #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Folders #
+bin
+target
+
+# Eclipse #
+.classpath
+.project
+.settings
+
+# IDEA #
+.idea
+*.iml
